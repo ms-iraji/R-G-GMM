@@ -1,0 +1,10 @@
+Dataset,Best_Method,Average_Rank
+yeast1,Residual-Guided GMM,1.3333333333333333
+vehicle0,Residual-Guided GMM,1.6666666666666667
+page-blocks0,Residual-Guided GMM,2.5
+pima,Residual-Guided GMM,1.0
+abalone19,Residual-Guided GMM,1.1666666666666667
+winequality-red-4,Residual-Guided GMM,1.1666666666666667
+shuttle-2_vs_5,Original GB,2.3333333333333335
+ecoli1,Residual-Guided GMM,1.1666666666666667
+glass1,Residual-Guided GMM,1.1666666666666667

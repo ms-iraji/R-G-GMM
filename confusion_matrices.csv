@@ -1,0 +1,46 @@
+Dataset,Method,TN,FP,FN,TP
+yeast1,Original GB,2837,328,682,605
+yeast1,Random US,2163,1002,350,937
+yeast1,Cluster US,2010,1155,304,983
+yeast1,SMOTE,2481,684,476,811
+yeast1,Residual-Guided GMM,2062,1103,289,998
+vehicle0,Original GB,1878,63,66,531
+vehicle0,Random US,1776,165,23,574
+vehicle0,Cluster US,1787,154,29,568
+vehicle0,SMOTE,1851,90,46,551
+vehicle0,Residual-Guided GMM,1799,142,15,582
+page-blocks0,Original GB,14559,180,262,1415
+page-blocks0,Random US,13836,903,81,1596
+page-blocks0,Cluster US,11790,2949,67,1610
+page-blocks0,SMOTE,14301,438,146,1531
+page-blocks0,Residual-Guided GMM,13808,931,71,1606
+pima,Original GB,1249,251,322,482
+pima,Random US,1103,397,188,616
+pima,Cluster US,1122,378,239,565
+pima,SMOTE,1161,339,242,562
+pima,Residual-Guided GMM,1086,414,177,627
+abalone19,Original GB,12392,34,96,0
+abalone19,Random US,7987,4439,38,58
+abalone19,Cluster US,9545,2881,35,61
+abalone19,SMOTE,11458,968,66,30
+abalone19,Residual-Guided GMM,9572,2854,27,69
+winequality-red-4,Original GB,4594,44,150,9
+winequality-red-4,Random US,3136,1502,64,95
+winequality-red-4,Cluster US,2705,1933,55,104
+winequality-red-4,SMOTE,4288,350,122,37
+winequality-red-4,Residual-Guided GMM,2962,1676,53,106
+shuttle-2_vs_5,Original GB,9801,0,0,147
+shuttle-2_vs_5,Random US,9752,49,0,147
+shuttle-2_vs_5,Cluster US,9720,81,0,147
+shuttle-2_vs_5,SMOTE,9801,0,0,147
+shuttle-2_vs_5,Residual-Guided GMM,9801,0,0,147
+ecoli1,Original GB,716,61,56,175
+ecoli1,Random US,677,100,29,202
+ecoli1,Cluster US,685,92,44,187
+ecoli1,SMOTE,701,76,39,192
+ecoli1,Residual-Guided GMM,695,82,30,201
+glass1,Original GB,357,57,75,153
+glass1,Random US,292,122,52,176
+glass1,Cluster US,302,112,52,176
+glass1,SMOTE,335,79,64,164
+glass1,Residual-Guided GMM,315,99,49,179

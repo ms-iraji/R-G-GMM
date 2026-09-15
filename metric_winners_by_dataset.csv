@@ -1,0 +1,46 @@
+Dataset,Metric,Winner,Value
+yeast1,Balanced Accuracy,Residual-Guided GMM,0.7135171263636332
+yeast1,G-Mean,Residual-Guided GMM,0.7099183601561809
+yeast1,F1,Residual-Guided GMM,0.5892484434416301
+yeast1,MCC,Original GB,0.40887620803862124
+yeast1,AUC,Residual-Guided GMM,0.7969484565864778
+vehicle0,Balanced Accuracy,Residual-Guided GMM,0.9508021882626286
+vehicle0,G-Mean,Residual-Guided GMM,0.9504230151630271
+vehicle0,F1,Original GB,0.8918645249819729
+vehicle0,MCC,Original GB,0.8588576229080118
+vehicle0,AUC,Residual-Guided GMM,0.9884017087384439
+page-blocks0,Balanced Accuracy,Residual-Guided GMM,0.9472553253959773
+page-blocks0,G-Mean,Residual-Guided GMM,0.9471822332260388
+page-blocks0,F1,Original GB,0.8648041859956129
+page-blocks0,MCC,Original GB,0.8502836658099944
+page-blocks0,AUC,Original GB,0.989974727085572
+pima,Balanced Accuracy,Residual-Guided GMM,0.7519253731343283
+pima,G-Mean,Residual-Guided GMM,0.750272325873747
+pima,F1,Residual-Guided GMM,0.6800924959830695
+pima,MCC,Residual-Guided GMM,0.48451962205947985
+pima,AUC,Residual-Guided GMM,0.8243930348258707
+abalone19,Balanced Accuracy,Residual-Guided GMM,0.7445351480766136
+abalone19,G-Mean,Residual-Guided GMM,0.7342859704229134
+abalone19,F1,SMOTE,0.054770153118360844
+abalone19,MCC,Residual-Guided GMM,0.10000548517621695
+abalone19,AUC,Residual-Guided GMM,0.8080989457588927
+winequality-red-4,Balanced Accuracy,Residual-Guided GMM,0.6534829643389367
+winequality-red-4,G-Mean,Residual-Guided GMM,0.6454229869164263
+winequality-red-4,F1,SMOTE,0.13196342651489648
+winequality-red-4,MCC,Residual-Guided GMM,0.11478406345581223
+winequality-red-4,AUC,Residual-Guided GMM,0.7179054116311555
+shuttle-2_vs_5,Balanced Accuracy,Original GB,1.0
+shuttle-2_vs_5,G-Mean,Original GB,1.0
+shuttle-2_vs_5,F1,Original GB,1.0
+shuttle-2_vs_5,MCC,Original GB,1.0
+shuttle-2_vs_5,AUC,Original GB,1.0
+ecoli1,Balanced Accuracy,Residual-Guided GMM,0.8826020776449172
+ecoli1,G-Mean,Residual-Guided GMM,0.8816623277329891
+ecoli1,F1,Residual-Guided GMM,0.781792607344988
+ecoli1,MCC,Residual-Guided GMM,0.7167014317740671
+ecoli1,AUC,Residual-Guided GMM,0.9546018631850947
+glass1,Balanced Accuracy,Residual-Guided GMM,0.7729786422578185
+glass1,G-Mean,Residual-Guided GMM,0.7723333279515701
+glass1,F1,Residual-Guided GMM,0.708314118090982
+glass1,MCC,Original GB,0.5477035265705962
+glass1,AUC,Residual-Guided GMM,0.851767098906687

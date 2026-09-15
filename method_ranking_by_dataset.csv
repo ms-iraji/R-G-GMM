@@ -1,0 +1,46 @@
+Dataset,Method,Average_Rank
+yeast1,Original GB,3.8333333333333335
+yeast1,Random US,3.1666666666666665
+yeast1,Cluster US,4.0
+yeast1,SMOTE,2.6666666666666665
+yeast1,Residual-Guided GMM,1.3333333333333333
+vehicle0,Original GB,3.3333333333333335
+vehicle0,Random US,3.6666666666666665
+vehicle0,Cluster US,4.0
+vehicle0,SMOTE,2.3333333333333335
+vehicle0,Residual-Guided GMM,1.6666666666666667
+page-blocks0,Original GB,2.6666666666666665
+page-blocks0,Random US,2.8333333333333335
+page-blocks0,Cluster US,4.333333333333333
+page-blocks0,SMOTE,2.6666666666666665
+page-blocks0,Residual-Guided GMM,2.5
+pima,Original GB,4.333333333333333
+pima,Random US,2.1666666666666665
+pima,Cluster US,4.166666666666667
+pima,SMOTE,3.3333333333333335
+pima,Residual-Guided GMM,1.0
+abalone19,Original GB,4.5
+abalone19,Random US,3.6666666666666665
+abalone19,Cluster US,2.5
+abalone19,SMOTE,3.1666666666666665
+abalone19,Residual-Guided GMM,1.1666666666666667
+winequality-red-4,Original GB,4.5
+winequality-red-4,Random US,2.6666666666666665
+winequality-red-4,Cluster US,3.5
+winequality-red-4,SMOTE,3.1666666666666665
+winequality-red-4,Residual-Guided GMM,1.1666666666666667
+shuttle-2_vs_5,Original GB,2.3333333333333335
+shuttle-2_vs_5,Random US,3.6666666666666665
+shuttle-2_vs_5,Cluster US,4.333333333333333
+shuttle-2_vs_5,SMOTE,2.3333333333333335
+shuttle-2_vs_5,Residual-Guided GMM,2.3333333333333335
+ecoli1,Original GB,4.333333333333333
+ecoli1,Random US,2.5
+ecoli1,Cluster US,4.5
+ecoli1,SMOTE,2.5
+ecoli1,Residual-Guided GMM,1.1666666666666667
+glass1,Original GB,2.5
+glass1,Random US,4.583333333333333
+glass1,Cluster US,3.75
+glass1,SMOTE,3.0
+glass1,Residual-Guided GMM,1.1666666666666667

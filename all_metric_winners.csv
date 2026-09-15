@@ -1,0 +1,46 @@
+Metric,Dataset,Winner,Type
+Balanced Accuracy,yeast1,Residual-Guided GMM,Unique winner
+Balanced Accuracy,vehicle0,Residual-Guided GMM,Unique winner
+Balanced Accuracy,page-blocks0,Residual-Guided GMM,Unique winner
+Balanced Accuracy,pima,Residual-Guided GMM,Unique winner
+Balanced Accuracy,abalone19,Residual-Guided GMM,Unique winner
+Balanced Accuracy,winequality-red-4,Residual-Guided GMM,Unique winner
+Balanced Accuracy,shuttle-2_vs_5,Original GB / SMOTE / Residual-Guided GMM,Tie
+Balanced Accuracy,ecoli1,Residual-Guided GMM,Unique winner
+Balanced Accuracy,glass1,Residual-Guided GMM,Unique winner
+G-Mean,yeast1,Residual-Guided GMM,Unique winner
+G-Mean,vehicle0,Residual-Guided GMM,Unique winner
+G-Mean,page-blocks0,Residual-Guided GMM,Unique winner
+G-Mean,pima,Residual-Guided GMM,Unique winner
+G-Mean,abalone19,Residual-Guided GMM,Unique winner
+G-Mean,winequality-red-4,Residual-Guided GMM,Unique winner
+G-Mean,shuttle-2_vs_5,Original GB / SMOTE / Residual-Guided GMM,Tie
+G-Mean,ecoli1,Residual-Guided GMM,Unique winner
+G-Mean,glass1,Residual-Guided GMM,Unique winner
+F1,yeast1,Residual-Guided GMM,Unique winner
+F1,vehicle0,Original GB,Unique winner
+F1,page-blocks0,Original GB,Unique winner
+F1,pima,Residual-Guided GMM,Unique winner
+F1,abalone19,SMOTE,Unique winner
+F1,winequality-red-4,SMOTE,Unique winner
+F1,shuttle-2_vs_5,Original GB / SMOTE / Residual-Guided GMM,Tie
+F1,ecoli1,Residual-Guided GMM,Unique winner
+F1,glass1,Residual-Guided GMM,Unique winner
+MCC,yeast1,Original GB,Unique winner
+MCC,vehicle0,Original GB,Unique winner
+MCC,page-blocks0,Original GB,Unique winner
+MCC,pima,Residual-Guided GMM,Unique winner
+MCC,abalone19,Residual-Guided GMM,Unique winner
+MCC,winequality-red-4,Residual-Guided GMM,Unique winner
+MCC,shuttle-2_vs_5,Original GB / SMOTE / Residual-Guided GMM,Tie
+MCC,ecoli1,Residual-Guided GMM,Unique winner
+MCC,glass1,Original GB,Unique winner
+AUC,yeast1,Residual-Guided GMM,Unique winner
+AUC,vehicle0,Residual-Guided GMM,Unique winner
+AUC,page-blocks0,Original GB,Unique winner
+AUC,pima,Residual-Guided GMM,Unique winner
+AUC,abalone19,Residual-Guided GMM,Unique winner
+AUC,winequality-red-4,Residual-Guided GMM,Unique winner
+AUC,shuttle-2_vs_5,Original GB / Random US / Cluster US / SMOTE / Residual-Guided GMM,Tie
+AUC,ecoli1,Residual-Guided GMM,Unique winner
+AUC,glass1,Residual-Guided GMM,Unique winner
